@@ -1,0 +1,9 @@
+numpy
+pickle
+pandas
+scipy
+sklearn
+cudf
+catboost
+
+git+https://github.com/dmitryhd/lightfm.git
